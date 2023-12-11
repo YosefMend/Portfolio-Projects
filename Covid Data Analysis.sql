@@ -85,3 +85,5 @@ JOIN "public"."CovidVaxes" AS vac
 WHERE dea.continent IS NOT NULL AND vac.total_boosters IS NULL 
 
 
+-- (Link to the visualization I have created using Tableau Public: https://public.tableau.com/app/profile/yosef.mendelson/viz/2019-2023CovidDashboard/Dashboard1?publish=yes )
+
